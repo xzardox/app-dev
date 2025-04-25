@@ -1,5 +1,5 @@
 # Favorite Movie
-> 'Cinderella' Cinderella
+**Cinderella**
 
 ## Main Characters
 1. Cinderella
@@ -9,6 +9,11 @@
 5. Cat
 6. Dwarfs
 
+### Why is it best thing to watch
+- Intended for kids.
+- Have a valuable lessons in life.
+- Real-life scenario.
+- Fantasy
 
 **Learn More** [Cinderella](https://movies.disney.com/cinderella-1950)
 ---
